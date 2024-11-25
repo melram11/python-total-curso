@@ -18,6 +18,8 @@ print("Barra Invertida: \\")
 print("Poner comillas dobles en un texto \"n\"")
 
 # input
+print("El nombre de usuario \nsera '" + input("dime el nombre de tu paise favorito?:") + " " + input("dime cual es tu apellido favorito?: ") + "'")
+print("tu nombre de usuario sera: '" + input("dime tu idol preferido: ") + " " + input("dime tu color favorito: ") + "'")
 print("nombre completo del usuario: " + input("Escribe tu nombre: ") + " " + input("Escribe tu apellido: "))
 print(input("Escribe tu nombre: "))
 print(input("Escribe tu apellido: "))
@@ -28,3 +30,4 @@ print("Tu nombre es: " + input("Dime tu nombre: "))
 print("Tu apellido es: " + input("Dime tu apellido: "))
 print("Tu nombre es: " + input("Dime tu nombre: ") + " " + input("Dime tu apellidO: "))
 print("Tu nombre y apellido es: " + input("Dime tu nombre: ") + " " +input("Dime tu apellido: "))
+

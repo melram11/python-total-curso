@@ -9,3 +9,4 @@ print("El nombre de la cerveza es: \n '" + animal + " " + color + "'")
 
 
 print("El nombre de tu cerveza \nes '" + input("cual es tu animal marino favorito?:") + " " + input("cual es tu ciudad favorita?:") + "'\nFelicitaciones!!")
+print("El nombre de usuario \nsera '" + input("dime el nombre de tu paise favorito?:") + " " + input("dime cual es tu apellido favorito?: ") + "'")
