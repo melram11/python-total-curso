@@ -31,3 +31,5 @@ num6 = "10"
 
 print(float(num6) + float(num5)) # concatenacion de strings
 print('Hola ' + input("Dime tu nombre:") + " " + input("dime tu apellido:") +  "\nBuenos dias!" )
+
+
